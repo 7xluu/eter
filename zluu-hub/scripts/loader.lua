@@ -1,7 +1,7 @@
 -- ╔══════════════════════════════╗
 -- ║     zluu hub · loader.lua    ║
 -- ╚══════════════════════════════╝
--- una sola url. detecta el juego. carga lo que toca.
+--
 
 local base    = "https://zluu-scripts.netlify.app/games/"
 local placeId = game.PlaceId
